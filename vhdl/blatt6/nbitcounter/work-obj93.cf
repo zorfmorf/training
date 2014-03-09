@@ -1,0 +1,7 @@
+v 3
+file . "nbc.vhdl" "20140309133043.000" "20140309143703.029":
+  entity nbc at 1( 0) + 0 on 21;
+  architecture behavior of nbc at 13( 218) + 0 on 22;
+file . "nbc_tb.vhdl" "20140309134105.000" "20140309144119.762":
+  entity nbc_tb at 1( 0) + 0 on 29;
+  architecture behavior of nbc_tb at 7( 74) + 0 on 30;

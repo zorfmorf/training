@@ -1,0 +1,62 @@
+$date
+  Sat Mar  8 20:56:04 2014
+$end
+$version
+  GHDL v0
+$end
+$timescale
+  1 fs
+$end
+$var reg 1 ! a $end
+$var reg 1 " b $end
+$var reg 1 # s $end
+$var reg 1 $ c $end
+$scope module adder_0 $end
+$var reg 1 % a $end
+$var reg 1 & b $end
+$var reg 1 ' s $end
+$var reg 1 ( c $end
+$upscope $end
+$enddefinitions $end
+#0
+0!
+0"
+U#
+U$
+0%
+0&
+U'
+U(
+#1000000
+0#
+0'
+#2000000
+0$
+0(
+#10000000
+1"
+1&
+#11000000
+1#
+1'
+#12000000
+0(
+#20000000
+1!
+0"
+1%
+0&
+#21000000
+1'
+#22000000
+0(
+#30000000
+1"
+1&
+#31000000
+0#
+0'
+#32000000
+1$
+1(
+#40000000

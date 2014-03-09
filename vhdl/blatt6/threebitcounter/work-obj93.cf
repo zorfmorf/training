@@ -1,0 +1,7 @@
+v 3
+file . "threebc_tb.vhdl" "20140309125019.000" "20140309135028.774":
+  entity threebc_tb at 1( 0) + 0 on 45;
+  architecture behavior of threebc_tb at 7( 82) + 0 on 46;
+file . "threebc.vhdl" "20140309124430.000" "20140309134434.820":
+  entity threebc at 1( 0) + 0 on 41;
+  architecture behavior of threebc at 11( 163) + 0 on 42;
